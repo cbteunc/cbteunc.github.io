@@ -40,7 +40,7 @@ layout: default
 
 ## Archivo metodológico
 
-Accedé al <a href="https://docs.google.com/document/d/1GpeygvWgMr8KEQHpm-FODSzhn_QEwHqt/edit?usp=sharing&ouid=104619148099592164311&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">archivo metodológico</a> para conocer qué es y cómo medimos la canasta básica.
+Accedé al <a href="https://drive.google.com/file/d/1Nz5B10Ul-Ug7PF2fwyCBifuAbDUeIW8m/view?usp=sharing" target="_blank" rel="noopener noreferrer">archivo metodológico</a> para conocer qué es y cómo medimos la canasta básica.
 
 ## Recolección de precios
 
@@ -56,13 +56,13 @@ Analizamos cómo la condición socioeconómica afecta la permanencia en la facul
 
 > "(...) en la actualidad, la gratuidad universitaria no es suficiente ni incluye todos aquellos costos que implica el estudiar una carrera. (...)"
 
-<a href="./error.html">
+<a href="https://drive.google.com/file/d/1wbYAA66nXfwGlQGgqUrklnITNsoHb14z/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-file-o" aria-hidden="true"></i> Más información del proyecto
 </a>
 
 ## Radicación del proyecto
 
-El proyecto se radica en la UNC y cuenta con la Declaración de Interés de la Facultad de Ciencias Sociales.
+El proyecto se radica en la UNC y estamos organizándonos para contar con la Declaración de Interés de la Facultad de Ciencias Sociales.
 
 ## Equipo
 
