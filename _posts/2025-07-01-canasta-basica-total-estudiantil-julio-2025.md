@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Equipo CBTE"
-title: "Canasta Básica Total Estudiantil Septiembre 2025"
+title: "Canasta Básica Total Estudiantil julio 2025"
 date: 2025-09-01
 tags: [canasta, julio, 2025]
 ---
