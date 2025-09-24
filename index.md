@@ -32,13 +32,13 @@ layout: default
     <i class="fa fa-bus icon"></i>
     <div>
       <p><strong>Viajes de regreso al lugar de origen</strong></p>
-      <p><a href="/_pages/anexo-viajes.html">Ver detalle</a></p>
+      <p><a href="./anexo-viajes.html">Ver detalle</a></p>
     </div>
   </div>
 
 * * *
 
-<a href="/_pages/registro_canastas.html"> 
+<a href="./registro_canastas.html"> 
   <i class="fa fa-search" aria-hidden="true"></i>
   Canastas anteriores 
 </a>
@@ -73,7 +73,7 @@ El proyecto se radica en la UNC y estamos organizándonos para contar con la Dec
 
 Somos estudiantes de la [Facultad de Ciencias Sociales](https://sociales.unc.edu.ar/) y de la [Facultad de Matemática, Astronomía, Física y Computación](https://www.famaf.unc.edu.ar/).
 
-<a href="/_pages/nombres.html">
+<a href="./nombres.html">
   <i class="fa fa-users" aria-hidden="true"></i> Integrantes del equipo autogestivo de investigación 
 </a>
 
