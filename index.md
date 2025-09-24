@@ -38,7 +38,10 @@ layout: default
 
 * * *
 
-### <a href="./registro_canastas.html"> Vistazo rápido de canastas anteriores </a>
+<a href="./registro_canastas.html"> 
+  <i class="fa fa-search" aria-hidden="true"></i>
+  Canastas anteriores 
+</a>
 
 ## Archivo metodológico
 
