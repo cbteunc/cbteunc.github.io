@@ -31,6 +31,6 @@ layout: default
 | Vuelo a Viedma | $163.938,67  |
 | Vuelo a Ushuaia| $169.001,00 |
 
-<a href="./index.md" class="btn-home">
+<a href="./index.html" class="btn-home">
     <i class="fa fa-long-arrow-left"></i> Volver al inicio
 </a>

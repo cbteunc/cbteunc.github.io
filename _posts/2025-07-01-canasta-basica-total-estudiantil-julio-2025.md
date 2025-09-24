@@ -2,7 +2,7 @@
 layout: post
 author: "Equipo CBTE"
 title: "CBTE julio 2025"
-date: 2025-07-01
+date: 2025-09-01
 tags: [canasta, julio, 2025]
 ---
 
