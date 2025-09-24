@@ -10,6 +10,6 @@ title: "Registro de CBTE"
   {% endfor %}
 </ul>
 
-<a href="/_pages/index.md" class="btn-home">
+<a href="./index.md" class="btn-home">
     <i class="fa fa-long-arrow-left"></i> Volver al inicio
 </a>

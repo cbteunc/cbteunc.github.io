@@ -25,6 +25,6 @@ Agradecemos especialmente a la docente Susana Morales de la Facultad de Ciencias
 ¿Querés participar o tenés alguna consulta? Mandanos un mail a <code>{{ site.email }}</code>.
 </p>
 
-<a href="/_pages/index.html" class="btn-home">
+<a href="./index.html" class="btn-home">
     <i class="fa fa-long-arrow-left"></i> Volver al inicio
 </a>
