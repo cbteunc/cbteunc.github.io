@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### JULIO 2025 
+### AGOSTO 2025 
 
 ## Perfiles de consumo y gastos mensuales
 
@@ -10,19 +10,19 @@ layout: default
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive en un departamento alquilado</p>
-      <p class="number">$714.066,18</p>
+      <p class="number">$687.195,28</p>
     </div>
 
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive en residencia universitaria</p>
-      <p class="number">$497.623,47</p>
+      <p class="number">$455.232,21</p>
     </div>
 
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive con su grupo familiar y no es el principal aportante</p>
-      <p class="number">$359.581,81</p>
+      <p class="number">$329.472,98</p>
     </div>
   </div>
 
@@ -38,11 +38,7 @@ layout: default
 
 * * *
 
-### Vistazo rápido de canastas anteriores
-
-<a href="./registro_canastas.html">
-  Registro de canastas
-</a>
+### <a href="./registro_canastas.html"> Vistazo rápido de canastas anteriores </a>
 
 ## Archivo metodológico
 
