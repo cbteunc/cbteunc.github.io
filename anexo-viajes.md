@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### JULIO 2025
+### AGOSTO 2025
 
 # Anexo de viajes
 
@@ -18,11 +18,11 @@ layout: default
 
 | Región       | Costo      |
 |--------------|------------|
-| Región Centro| $32.305,87  |
 | Región Cuyo  | $29.006,74  | 
+| Región Centro| $32.305,87  |
 | Región NOA   | $51.794,82  |
-| Región Sur   | $89.778,04  |
 | Región NEA   | $56.267,32  |
+| Región Sur   | $89.778,04  |
 
 ## Vuelos
 
