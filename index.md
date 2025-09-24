@@ -40,7 +40,7 @@ layout: default
 
 ### Vistazo rápido de canastas anteriores
 
-<a href="./resgistro_canastas.html">
+<a href="./registro_canastas.html">
   Registro de canastas
 </a>
 
