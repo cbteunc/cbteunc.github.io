@@ -38,6 +38,12 @@ layout: default
 
 * * *
 
+### Vistazo rápido de canastas anteriores
+
+<a href="./resgistro_canastas.html">
+  Registro de canastas
+</a>
+
 ## Archivo metodológico
 
 Accedé al <a href="https://drive.google.com/file/d/1Nz5B10Ul-Ug7PF2fwyCBifuAbDUeIW8m/view?usp=sharing" target="_blank" rel="noopener noreferrer">archivo metodológico</a> para conocer qué es y cómo medimos la canasta básica.
