@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-<h3>{{ page.title }}</h3>
+<h2>{{ page.title }}</h2>
 
 {{content}}
+
+<br>
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
