@@ -14,4 +14,6 @@ tags: [canasta, julio, 2025]
 
 
 
-<li><a href="https://drive.google.com/file/d/1O_bq6CE0OsTDHmBQm8qNYqLSdugrXy6y/view?usp=drive_link" target="_blank" rel="noopener noreferrer"> <strong>Leer el informe completo y ver los gráficos</strong></a></li>
+<a href="https://drive.google.com/file/d/1O_bq6CE0OsTDHmBQm8qNYqLSdugrXy6y/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <i class="fa fa-file-o" aria-hidden="true"></i>  Leer el informe completo y ver los gráficos
+</a>
