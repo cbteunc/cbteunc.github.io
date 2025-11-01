@@ -41,11 +41,16 @@ layout: default
 ## Divulgación en redes y medios
 
 ¿Te interesa tener un pantallazo de la historia, organización y objetivos del proyecto? 
-Accedé a los siguientes videos cortos (< 1') y audios informativos. Para más detalles, te recomendamos [ver archivo metodológico](#archivo-metodológico) y [proyecto de investigación](#proyecto-de-investigación).
+Accedé a los siguientes videos cortos (< 1') y audios informativos. 
 
-#### Nota radial en Estamos Llegando FM
+> <i class="fa fa-exclamation" aria-hidden="true"></i> **Para más detalles, te recomendamos leer nuestro [archivo metodológico](#archivo-metodológico) y [proyecto de investigación](#proyecto-de-investigación)**.
 
--  <a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> Reel de la nota </a>
+#### <i class="fa fa-volume-up" aria-hidden="true"></i> Nota radial en Estamos Llegando FM 
+
+-  <a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> 
+    <i class="fa fa-external-link-square" aria-hidden="true"></i>
+      Reel de la nota 
+    </a>
 
 <audio controls>
   <source src="/assets/audio/FM La Ranchada - ArgentinaStream _ Tu radio Online — Mozilla Firefox 2025-10-09 18-15-39.mp3" type="audio/mpeg">
@@ -59,7 +64,10 @@ Accedé a los siguientes videos cortos (< 1') y audios informativos. Para más d
   Tu navegador no soporta el elemento de audio.
 </audio>
 
-- <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> Reel resumen del proyecto publicado por el CECS - Sociales Para La Victoria </a>
+- <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> 
+  <i class="fa fa-external-link-square" aria-hidden="true"></i>
+    Reel resumen del proyecto publicado por el CECS - Sociales Para La Victoria 
+  </a>
 
 ## Archivo metodológico
 
@@ -83,10 +91,10 @@ Automatizamos gran parte de la recolección y limpieza de precios para las medic
 
 Analizamos cómo la condición socioeconómica afecta la permanencia en la facultad. Miramos gastos, perfiles de estudiantes, estrategias de ahorro y costos extra como traslados o gastos no incluidos en la CBTE. 
 
-> "(...) en la actualidad, la gratuidad universitaria no es suficiente ni incluye todos aquellos costos que implica el estudiar una carrera. (...)"
+> <i class="fa fa-quote-left" aria-hidden="true"></i> "(...) en la actualidad, la gratuidad universitaria no es suficiente ni incluye todos aquellos costos que implica el estudiar una carrera. (...)"
 
 <a href="https://drive.google.com/file/d/1wbYAA66nXfwGlQGgqUrklnITNsoHb14z/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-  <i class="fa fa-file-o" aria-hidden="true"></i> Más información del proyecto
+  <i class="fa fa-file-o" aria-hidden="true"></i> Proyecto de investigación
 </a>
 
 ## Radicación del proyecto
