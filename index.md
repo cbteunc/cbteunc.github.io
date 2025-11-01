@@ -45,12 +45,13 @@ Accedé a los siguientes videos cortos (< 1') y audios informativos.
 
 > <i class="fa fa-exclamation fa-2x fa-pull-left" aria-hidden="true"></i> Para más detalles, te recomendamos leer nuestro [archivo metodológico](#archivo-metodológico) y [proyecto de investigación](#proyecto-de-investigación).
 
-#### <i class="fa fa-volume-up" aria-hidden="true"></i> Nota radial en Estamos Llegando FM 
-
 <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> 
   <i class="fa fa-external-link-square" aria-hidden="true"></i>
     Reel resumen del proyecto publicado por el CECS - Sociales Para La Victoria 
 </a>
+
+#### <i class="fa fa-volume-up" aria-hidden="true"></i> Nota radial en Estamos Llegando FM 
+
 <a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> 
   <i class="fa fa-external-link-square" aria-hidden="true"></i>
     Reel de la nota 
@@ -67,8 +68,6 @@ Accedé a los siguientes videos cortos (< 1') y audios informativos.
 
   Tu navegador no soporta el elemento de audio.
 </audio>
-
-<br>
 
 ## Archivo metodológico
 
