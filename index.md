@@ -43,7 +43,7 @@ layout: default
 ¿Te interesa tener un pantallazo de la historia, organización y objetivos del proyecto? 
 Accedé a los siguientes videos cortos (< 1') y audios informativos. 
 
-> <i class="fa fa-exclamation fa-3x fa-pull-left fa-border" aria-hidden="true"></i> Para más detalles, te recomendamos leer nuestro [archivo metodológico](#archivo-metodológico) y [proyecto de investigación](#proyecto-de-investigación).
+> <i class="fa fa-exclamation fa-2x fa-pull-left fa-border" aria-hidden="true"></i> Para más detalles, te recomendamos leer nuestro [archivo metodológico](#archivo-metodológico) y [proyecto de investigación](#proyecto-de-investigación).
 
 #### <i class="fa fa-volume-up" aria-hidden="true"></i> Nota radial en Estamos Llegando FM 
 
@@ -91,7 +91,7 @@ Automatizamos gran parte de la recolección y limpieza de precios para las medic
 
 Analizamos cómo la condición socioeconómica afecta la permanencia en la facultad. Miramos gastos, perfiles de estudiantes, estrategias de ahorro y costos extra como traslados o gastos no incluidos en la CBTE. 
 
-> <i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i> "(...) en la actualidad, la gratuidad universitaria no es suficiente ni incluye todos aquellos costos que implica el estudiar una carrera. (...)"
+> <i class="fa fa-quote-left fa-2x fa-pull-left fa-border" aria-hidden="true"></i> "(...) en la actualidad, la gratuidad universitaria no es suficiente ni incluye todos aquellos costos que implica el estudiar una carrera. (...)"
 
 <a href="https://drive.google.com/file/d/1wbYAA66nXfwGlQGgqUrklnITNsoHb14z/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-file-o" aria-hidden="true"></i> Proyecto de investigación
