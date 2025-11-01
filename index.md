@@ -40,11 +40,9 @@ layout: default
 
 ## Divulgación en redes y medios
 
-### Nota radial en Estamos Llegando FM
+#### Nota radial en Estamos Llegando FM
 
 -  <a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> Reel de la nota </a>
-
-<br>
 
 <audio controls>
   <source src="/assets/audio/FM La Ranchada - ArgentinaStream _ Tu radio Online — Mozilla Firefox 2025-10-09 18-15-39.mp3" type="audio/mpeg">
@@ -52,16 +50,14 @@ layout: default
   Tu navegador no soporta el elemento de audio.
 </audio>
 
-<br>
-
 <audio controls>
   <source src="/assets/audio/FM La Ranchada - ArgentinaStream _ Tu radio Online — Mozilla Firefox 2025-10-09 18-34-33.mp3" type="audio/mpeg">
 
   Tu navegador no soporta el elemento de audio.
 </audio>
 
-### Reels presentando el proyecto y resultados del CECS - Sociales Para La Victoria
-- -  <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> Reel resumen del proyecto </a>
+#### Reels presentando el proyecto y resultados del CECS - Sociales Para La Victoria
+-  <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> Reel resumen del proyecto </a>
 
 ## Archivo metodológico
 
