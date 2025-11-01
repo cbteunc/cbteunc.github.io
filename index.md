@@ -40,6 +40,9 @@ layout: default
 
 ## Divulgación en redes y medios
 
+¿Te interesa tener un pantallazo de la historia, organización y objetivos del proyecto? 
+Accedé a los siguientes videos cortos (< 1') y audios informativos. Para más detalles, te recomendamos [ver archivo metodológico](#archivo-metodológico) y [proyecto de investigación](#proyecto-de-investigación).
+
 #### Nota radial en Estamos Llegando FM
 
 -  <a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> Reel de la nota </a>
@@ -56,8 +59,7 @@ layout: default
   Tu navegador no soporta el elemento de audio.
 </audio>
 
-#### Reels presentando el proyecto y resultados del CECS - Sociales Para La Victoria
--  <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> Reel resumen del proyecto </a>
+- <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> Reel resumen del proyecto publicado por el CECS - Sociales Para La Victoria </a>
 
 ## Archivo metodológico
 
