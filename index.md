@@ -38,14 +38,40 @@ layout: default
 
 * * *
 
+## Divulgación en redes y medios
+
+### Nota radial en Estamos Llegando FM
+
+-  <a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> Reel de la nota </a>
+
+<br>
+
+<audio controls>
+  <source src="/assets/audio/FM La Ranchada - ArgentinaStream _ Tu radio Online — Mozilla Firefox 2025-10-09 18-15-39.mp3" type="audio/mpeg">
+
+  Tu navegador no soporta el elemento de audio.
+</audio>
+
+<br>
+
+<audio controls>
+  <source src="/assets/audio/FM La Ranchada - ArgentinaStream _ Tu radio Online — Mozilla Firefox 2025-10-09 18-34-33.mp3" type="audio/mpeg">
+
+  Tu navegador no soporta el elemento de audio.
+</audio>
+
+### Reels presentando el proyecto y resultados del CECS - Sociales Para La Victoria
+- -  <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> Reel resumen del proyecto </a>
+
+## Archivo metodológico
+
+Accedé al <a href="https://drive.google.com/file/d/1z9VMHn8pJQQkuqrXUQVEaBCw38SgtJZz/view?usp=sharing" target="_blank" rel="noopener noreferrer">archivo metodológico</a> para conocer qué es y cómo medimos la canasta básica.
+
 <a href="./registro_canastas.html"> 
   <i class="fa fa-search" aria-hidden="true"></i>
   Canastas anteriores 
 </a>
 
-## Archivo metodológico
-
-Accedé al <a href="https://drive.google.com/file/d/1Nz5B10Ul-Ug7PF2fwyCBifuAbDUeIW8m/view?usp=sharing" target="_blank" rel="noopener noreferrer">archivo metodológico</a> para conocer qué es y cómo medimos la canasta básica.
 
 ## Recolección de precios
 
@@ -67,7 +93,7 @@ Analizamos cómo la condición socioeconómica afecta la permanencia en la facul
 
 ## Radicación del proyecto
 
-El proyecto se radica en la UNC y estamos organizándonos para contar con la Declaración de Interés de la Facultad de Ciencias Sociales.
+El proyecto se radica en la UNC y contamos con la Declaración de Interés de la Facultad de Ciencias Sociales.
 
 ## Equipo
 
