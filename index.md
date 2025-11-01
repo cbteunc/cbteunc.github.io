@@ -52,11 +52,6 @@ Accedé a los siguientes videos cortos (< 1') y audios informativos.
 
 #### <i class="fa fa-volume-up" aria-hidden="true"></i> Nota radial en Estamos Llegando FM 
 
-<a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> 
-  <i class="fa fa-external-link-square" aria-hidden="true"></i>
-    Reel de la nota 
-</a>
-
 <audio controls>
   <source src="/assets/audio/FM La Ranchada - ArgentinaStream _ Tu radio Online — Mozilla Firefox 2025-10-09 18-15-39.mp3" type="audio/mpeg">
 
@@ -68,6 +63,13 @@ Accedé a los siguientes videos cortos (< 1') y audios informativos.
 
   Tu navegador no soporta el elemento de audio.
 </audio>
+
+<p></p>
+
+<a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> 
+  <i class="fa fa-external-link-square" aria-hidden="true"></i>
+    Reel de la nota 
+</a>
 
 ## Archivo metodológico
 
