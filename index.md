@@ -10,19 +10,19 @@ layout: default
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive en un departamento alquilado</p>
-      <p class="number">$687.195,28</p>
+      <p class="number">$685.275,28</p>
     </div>
 
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive en residencia universitaria</p>
-      <p class="number">$455.232,21</p>
+      <p class="number">$453.312,21</p>
     </div>
 
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive con su grupo familiar y no es el principal aportante</p>
-      <p class="number">$329.472,98</p>
+      <p class="number">$327.552,98</p>
     </div>
   </div>
 
@@ -31,7 +31,7 @@ layout: default
   <div class="callout">
     <i class="fa fa-bus icon"></i>
     <div>
-      <p><strong>Viajes de regreso al lugar de origen</strong></p>
+      <p><strong>Viaje de regreso al lugar de origen</strong></p>
       <p><a href="./anexo-viajes.html">Ver detalle</a></p>
     </div>
   </div>
@@ -41,13 +41,13 @@ layout: default
 ## Divulgación en redes y medios
 
 ¿Te interesa tener un pantallazo de la historia, organización y objetivos del proyecto? 
-Accedé a los siguientes videos cortos (< 1') y audios informativos. 
+Accedé a los siguientes videos cortos (< 3') y audios informativos. 
 
 > <i class="fa fa-exclamation fa-2x fa-pull-left" aria-hidden="true"></i> Para más detalles, te recomendamos leer nuestro [archivo metodológico](#archivo-metodológico) y [proyecto de investigación](#proyecto-de-investigación).
 
 <a href="https://www.instagram.com/reel/DKiBpbJRNek/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"> 
-  <i class="fa fa-external-link-square" aria-hidden="true"></i>
-    Reel resumen del proyecto publicado por el CECS - Sociales Para La Victoria 
+  <i class="fa fa-instagram" aria-hidden="true"></i>
+    Reel resumen del proyecto
 </a>
 
 #### <i class="fa fa-volume-up" aria-hidden="true"></i> Nota radial en Estamos Llegando FM 
@@ -67,8 +67,8 @@ Accedé a los siguientes videos cortos (< 1') y audios informativos.
 <p></p>
 
 <a href="https://www.instagram.com/reel/DPzs5FFEa23/?igsh=N2piNjV5bWl5bWx6" target="_blank" rel="noopener noreferrer"> 
-  <i class="fa fa-external-link-square" aria-hidden="true"></i>
-    Reel de la nota 
+  <i class="fa fa-instagram" aria-hidden="true"></i>
+    Reel de la entrevista 
 </a>
 
 ## Archivo metodológico
