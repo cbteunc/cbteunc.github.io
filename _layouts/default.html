@@ -21,9 +21,14 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p>
-          <code>{{ site.email }}</code>
+          {{ site.description | default: site.github.project_tagline }}
+        </p>
+        <p>
+          ¡Sumate como voluntario/a para garantizar las ediciones mensuales de la CBTE y mantener la calidad del trabajo que sostiene esta herramienta al servicio de toda la comunidad universitaria!
+        </p>
+        <p>
+          <i class="fa fa-info-circle" aria-hidden="true"></i> ¿Tenés alguna duda, crítica y/o interés en sumarte como voluntario/a? Mandanos un mail a <code>{{ site.email }}</code>
         </p>
         {% if site.show_downloads %}
         <ul class="downloads">
