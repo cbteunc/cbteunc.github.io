@@ -2,6 +2,9 @@
 layout: default
 ---
 
+> <i class="fa fa-heart fa-2x fa-pull-left" aria-hidden="true"></i> **¡Sumate como voluntario/a para garantizar las ediciones mensuales de la CBTE y mantener la calidad del trabajo que sostiene esta herramienta al servicio de la comunidad universitaria!**
+        
+
 ### AGOSTO 2025 
 
 ## Perfiles de consumo y gastos mensuales
@@ -15,7 +18,7 @@ layout: default
 
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
-      <p>Estudiante que vive en residencia universitaria</p>
+      <p>Estudiante que vive en una residencia universitaria</p>
       <p class="number">$453.312,21</p>
     </div>
 
