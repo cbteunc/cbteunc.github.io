@@ -5,7 +5,7 @@ layout: default
 > <i class="fa fa-heart fa-2x fa-pull-left" aria-hidden="true"></i> **¡Sumate como voluntario/a para garantizar las ediciones mensuales de la CBTE y mantener la calidad del trabajo que sostiene esta herramienta al servicio de la comunidad universitaria!**
         
 
-### OCTOBRE 2025 
+### OCTUBRE 2025 
 
 ## Perfiles de consumo y gastos mensuales
 
