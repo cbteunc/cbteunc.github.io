@@ -15,7 +15,8 @@ layout: default
 - Leiva Ariel Iván (Estudiante de la Licenciatura en Ciencias de la Computación, FAMAF, UNC)
 - Moiguer Solana Mailen (Estudiante de la Licenciatura en Ciencia Política, FCS, UNC)
 - Montrucchio Fiorella (Estudiante de la Licenciatura en Ciencia Política, FCS, UNC)
-- Perez Sbarato Rocío (Estudiante de la Licenciatura en Ciencias de la Computación, FAMAF, UNC)
+- Pagani Felipe Tomás (Estudiante de la Licenciatura en Ciencias de la Computación, FAMAF, UNC)
+- Perez Sbarato Rocío (Reciente Egresada de la Licenciatura en Ciencias de la Computación, FAMAF, UNC)
 
 Agradecemos especialmente a la docente Susana Morales de la Facultad de Ciencias Sociales y al docente Luis Biedma de la Facultad de Matemática, Astronomía, Física y Computación por su consejo y guía en este proceso.
 

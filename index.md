@@ -5,7 +5,7 @@ layout: default
 > <i class="fa fa-heart fa-2x fa-pull-left" aria-hidden="true"></i> **¡Sumate como voluntario/a para garantizar las ediciones mensuales de la CBTE y mantener la calidad del trabajo que sostiene esta herramienta al servicio de la comunidad universitaria!**
         
 
-### OCTUBRE 2025 
+### ENERO 2026 
 
 ## Perfiles de consumo y gastos mensuales
 
@@ -13,19 +13,19 @@ layout: default
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive en un departamento alquilado</p>
-      <p class="number">$731.078,80</p>
+      <p class="number">$830.212,8</p>
     </div>
 
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive en una residencia universitaria</p>
-      <p class="number">$544.610,74</p>
+      <p class="number">$567.004,4</p>
     </div>
 
     <div class="card">
       <i class="fa fa-shopping-basket icon" aria-hidden="true"></i>
       <p>Estudiante que vive con su grupo familiar y no es el principal aportante</p>
-      <p class="number">$350.915,25</p>
+      <p class="number">$392.464</p>
     </div>
   </div>
 

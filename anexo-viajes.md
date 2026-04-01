@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### OCTUBRE 2025
+### ENERO 2026
 
 # Anexo de viajes
 
@@ -10,26 +10,26 @@ layout: default
 
 | Distancia               | Costo      |
 |--------------------------|------------|
-| Menos 50 km Córdoba      | $5.450,00   |
-| Entre 50 a 100 km Córdoba| $11.445,56  |
-| Más de 100 km Córdoba    | $26.850,36   |
+| Menos 50 km Córdoba      | $6.120,8   |
+| Entre 50 a 100 km Córdoba| $12.640,0  |
+| Más de 100 km Córdoba    | 32.759,1   |
 
 ## Hacia otras provincias
 
 | Región       | Costo      |
 |--------------|------------|
-| Región Centro| $37.518,69 |
-| Región Cuyo  | $40.045,70 | 
-| Región NOA   | $52.812,64 |
-| Región NEA   | $62.498,10 |
-| Región Sur   | $94.025,35 |
+| Región Centro| $44.783,0  |
+| Región Cuyo  | $51.020,7  | 
+| Región NOA   | $75.504,8  |
+| Región NEA   | $64.504,8  |
+| Región Sur   | $131.585,0 |
 
 ## Vuelos
 
 | Destino        | Costo       |
 |----------------|-------------|
-| Vuelo a Viedma | $147.629,67 |
-| Vuelo a Ushuaia| $132.937,46 |
+| Vuelo a Viedma | $151.820,4  |
+| Vuelo a Ushuaia| $220.432,3  |
 
 <a href="./index.html" class="btn-home">
     <i class="fa fa-long-arrow-left"></i> Volver al inicio
